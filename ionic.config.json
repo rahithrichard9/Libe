@@ -1,0 +1,7 @@
+{
+  "name": "Libe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
